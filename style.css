@@ -129,6 +129,10 @@ body * {
         display: none;
     }
 
+    .left-login h2{
+        display: none;
+    }
+
     .left-login {
         width: 100%;
         height: auto;
